@@ -71,3 +71,12 @@ Este proyecto está licenciado bajo la [MIT License](LICENSE), lo que permite su
 ---
 
 Explora el repositorio en GitHub: [OsmanJimenez/Menu\_Circular\_Neumorphism](https://github.com/OsmanJimenez/Menu_Circular_Neumorphism).
+
+## 👤 Autor
+
+**Osman Armando Jiménez Cortés**  
+[Portafolio profesional](https://osmanjimenez.com/)  
+[Perfil de GitHub](https://github.com/OsmanJimenez)
+
+Ingeniero de Sistemas y Desarrollador Full Stack especializado en desarrollo web y aplicaciones móviles.
+
